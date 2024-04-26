@@ -6,7 +6,7 @@
 
 数据集格式处理：
 
-1. 把收集的数据集都转化为sharegpt格式，其中alpaca格式的instruction和input在axolotl中使用“\n”连接放在user message中，Qwen推荐用“:”连接，这里为了表示内容的分割我用“\n\n”连接.strip()的instuction和input作为user message
+1. 把收集的数据集都转化为sharegpt格式，其中alpaca格式的instruction和input在axolotl中使用`\n`连接放在user message中，Qwen推荐用`:`连接，这里为了表示内容的分割我用`\n\n`连接`.strip()`的instuction和input作为user message
 
 # dataset zh
 
