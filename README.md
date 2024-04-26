@@ -7,6 +7,35 @@ language:
 pretty_name: Yunji
 size_categories:
 - 100K<n<1M
+configs:
+- config_name: alpaca-gpt4-data-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/alpaca-gpt4-data-zh.jsonl"
+- config_name: blossom-chat-v3-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/blossom-chat-v3-zh.jsonl"
+- config_name: blossom-math-v4-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/blossom-math-v4-zh.jsonl"
+- config_name: blossom-orca-v3-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/blossom-orca-v3-zh.jsonl"
+- config_name: blossom-wizard-v3-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/blossom-wizard-v3-zh.jsonl"
+- config_name: glaive-function-calling-v2-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/glaive-function-calling-v2-zh.jsonl"
+- config_name: OpenHermes-2.5-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/OpenHermes-2.5-zh.jsonl"
 ---
 # Yunji(云笈)
 
