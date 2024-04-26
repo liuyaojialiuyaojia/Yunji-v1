@@ -37,6 +37,9 @@ configs:
   - split: train
     path: "dataset-zh/OpenHermes-2.5-zh.jsonl"
 ---
+
+![image/webp](https://cdn-uploads.huggingface.co/production/uploads/64ef2a96f2b8f40224d7b407/wpn8RyQzwheXqDB9l7fkm.webp)
+
 # Yunji(云笈)
 
 **[github Yunji(云笈)](https://github.com/liuyaojialiuyaojia/Yunji-v1)** 收集、整理、分类gpt4生成的高质量中英文指令精调语料，并提供自己翻译的高质量数据。
