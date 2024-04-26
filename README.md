@@ -1,6 +1,6 @@
 # Yunji(云笈)
 
-收集、整理、分类gpt4生成的高质量中英文指令精调语料，并提供自己翻译的高质量数据。
+**[github Yunji(云笈)](https://github.com/liuyaojialiuyaojia/Yunji-v1)** 收集、整理、分类gpt4生成的高质量中英文指令精调语料，并提供自己翻译的高质量数据。
 
 可以从 **[huggingface yaojialzc/Yunji-v1](https://huggingface.co/datasets/yaojialzc/Yunji-v1)** 直接加载
 
