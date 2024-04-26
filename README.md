@@ -1,3 +1,13 @@
+---
+license: apache-2.0
+task_categories:
+- text-generation
+language:
+- zh
+pretty_name: Yunji
+size_categories:
+- 10K<n<100K
+---
 # Yunji(云笈)
 
 **[github Yunji(云笈)](https://github.com/liuyaojialiuyaojia/Yunji-v1)** 收集、整理、分类gpt4生成的高质量中英文指令精调语料，并提供自己翻译的高质量数据。
@@ -21,5 +31,3 @@
 | 5  | [Azure99/blossom-wizard-v3](https://huggingface.co/datasets/Azure99/blossom-wizard-v3) (中文部分) | 从WizardLM_evol_instruct_V2提取指令 | 10k |
 | 6  | [glaive-function-calling-v2-zh](https://huggingface.co/datasets/wenbopan/OpenHermes-2.5-zh) | 从glaive-function-calling-v2中翻译，来自wenbopan/OpenHermes-2.5-zh | 5k |
 | 7  | [OpenHermes-2.5-zh](https://huggingface.co/datasets/wenbopan/OpenHermes-2.5-zh) | 从OpenHermes-2.5中翻译，来自wenbopan/OpenHermes-2.5-zh | 86k |
-
-
