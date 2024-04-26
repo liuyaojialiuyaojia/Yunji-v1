@@ -36,6 +36,10 @@ configs:
   data_files:
   - split: train
     path: "dataset-zh/OpenHermes-2.5-zh.jsonl"
+- config_name: RefGPT-Fact-v2-zh
+  data_files:
+  - split: train
+    path: "dataset-zh/RefGPT-Fact-v2-zh.jsonl"
 ---
 
 ![image/webp](https://cdn-uploads.huggingface.co/production/uploads/64ef2a96f2b8f40224d7b407/wpn8RyQzwheXqDB9l7fkm.webp)
