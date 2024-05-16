@@ -75,7 +75,7 @@ configs:
 | 5  | [Azure99/blossom-wizard-v3](https://huggingface.co/datasets/Azure99/blossom-wizard-v3) (中文部分) | 从WizardLM_evol_instruct_V2提取指令 | 10k |
 | 6  | [glaive-function-calling-v2-zh](https://huggingface.co/datasets/wenbopan/OpenHermes-2.5-zh) | 从glaive-function-calling-v2中翻译，来自wenbopan/OpenHermes-2.5-zh | 5k |
 | 7  | [OpenHermes-2.5-zh](https://huggingface.co/datasets/wenbopan/OpenHermes-2.5-zh) | 从OpenHermes-2.5中翻译，来自wenbopan/OpenHermes-2.5-zh | 86k |
-| 8  | [Mutonix/RefGPT-Fact-v2](https://huggingface.co/datasets/Mutonix/RefGPT-Fact-v2?row=14) | 基于事实对话 | 61k |
+| 8  | [Mutonix/RefGPT-Fact-v2](https://huggingface.co/datasets/Mutonix/RefGPT-Fact-v2?row=14) | 基于事实知识的对话 | 61k |
 | 9  | [Mutonix/RefGPT-Code-cr](https://huggingface.co/datasets/Mutonix/RefGPT-Code-cr) | 代码生成 | 15k |
 | 10 | [Mutonix/RefGPT-Code-bg](https://huggingface.co/datasets/Mutonix/RefGPT-Code-bg) | 修复代码bug | 10k |
 | 11 | [Mutonix/RefGPT-Code-ds](https://huggingface.co/datasets/Mutonix/RefGPT-Code-ds) | 关于代码的讨论 | 14k |
@@ -95,3 +95,4 @@ configs:
 | ID | name | source | count |
 |----|--------------|----------|--------------|
 | 1  | [Mutonix/RefGPT-Reason](https://huggingface.co/datasets/Mutonix/RefGPT-Reason?row=90) | 事实知识、逻辑类选择题 | 228k |
+| 2  | [m-a-p/COIG-CQIA](https://huggingface.co/datasets/m-a-p/COIG-CQIA) | 基于LIMA，强调输入多样性的高质量中文知识问答 | 45k |
